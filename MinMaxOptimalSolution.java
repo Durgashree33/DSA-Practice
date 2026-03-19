@@ -1,3 +1,4 @@
+//MinMax optimal solution
 public class MinMaxOptimalSolution {
 
     public static void main(String[] args) {
