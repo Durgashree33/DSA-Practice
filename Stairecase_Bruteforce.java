@@ -1,4 +1,5 @@
-public class Staircase_Bruteforce {
+public class Stairecase_Bruteforce {
+   
     public static void main(String[] args) {
 
         int n = 5; // height of staircase

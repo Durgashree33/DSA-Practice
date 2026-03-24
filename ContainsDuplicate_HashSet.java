@@ -21,7 +21,7 @@ public class ContainsDuplicate_HashSet {
     }
 
     public static void main(String[] args) {
-
+      
         int[] nums = { 1, 2, 3, 4, 1 };
 
         boolean result = containsDuplicate(nums);
